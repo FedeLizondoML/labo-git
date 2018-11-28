@@ -1,1 +1,2 @@
-archivonuevo
+archivo nuevo
+este es un archivo para conflictos
